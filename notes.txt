@@ -1,0 +1,7 @@
+Movie Structure (Components):
+<wrapper> //Fetches data
+    <category>
+        <movie>
+        </movie>
+    </category>
+</wrapper>
